@@ -87,3 +87,6 @@ function main(content) {
   content.dns = mergeConfig(content.dns, dnsOptions)
   return { ...content, ...otherOptions }
 }
+/*
+ * https://lainbo.com/article/clash-config 
+ */
