@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,lagou.com
 DOMAIN-SUFFIX,abchina.com.cn
 DOMAIN-SUFFIX,shanbay.com
 DOMAIN-SUFFIX,psbc.com
+PROCESS-NAME,clash-speedtest.exe
