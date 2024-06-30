@@ -11,4 +11,5 @@ DOMAIN-SUFFIX,36kr.com
 DOMAIN-SUFFIX,cnbeta.com.tw
 DOMAIN-SUFFIX,linux.do
 PROCESS-NAME,clash-speedtest.exe
-DOMAIN-SUFFIX,ch.test-ipv6.com
+DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,alpinedc.ch
