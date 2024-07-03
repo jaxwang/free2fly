@@ -13,3 +13,4 @@ DOMAIN-SUFFIX,linux.do
 PROCESS-NAME,clash-speedtest.exe
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,alpinedc.ch
+DOMAIN-SUFFIX,ghproxy.com
