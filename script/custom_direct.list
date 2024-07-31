@@ -16,3 +16,4 @@ PROCESS-NAME,python
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,alpinedc.ch
 DOMAIN-SUFFIX,ghproxy.com
+DOMAIN-SUFFIX,shared.oaifree.com
