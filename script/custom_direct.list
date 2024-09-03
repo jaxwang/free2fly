@@ -17,3 +17,4 @@ DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,alpinedc.ch
 DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,shared.oaifree.com
+IP-CIDR,106.75.10.74/32
