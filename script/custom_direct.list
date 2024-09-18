@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,cnbeta.com.tw
 DOMAIN-SUFFIX,linux.do
 PROCESS-NAME,clash-speedtest.exe
 PROCESS-NAME,clash-speedtest
+PROCESS-NAME,frpc
 PROCESS-NAME,git
 PROCESS-NAME,python3.8
 DOMAIN-SUFFIX,test-ipv6.com
