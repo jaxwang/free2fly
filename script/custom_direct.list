@@ -22,7 +22,6 @@ DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,alpinedc.ch
 DOMAIN-SUFFIX,shared.oaifree.com
 DOMAIN-SUFFIX,ghp.ci
-DOMAIN-SUFFIX,jaxwang319.serv00.net
 IP-CIDR,106.75.10.74/32
 PROCESS-NAME,aria2c
 PROCESS-NAME,BitComet
