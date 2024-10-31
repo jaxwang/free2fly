@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,psbc.com
 DOMAIN-SUFFIX,36kr.com
 DOMAIN-SUFFIX,cnbeta.com.tw
 DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,1989000.xyz
 PROCESS-NAME,clash-speedtest.exe
 PROCESS-NAME,clash-speedtest
 PROCESS-NAME,frpc
