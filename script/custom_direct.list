@@ -21,7 +21,6 @@ PROCESS-NAME,frpc
 PROCESS-NAME,xunlei-pan-cli.3.21.0.amd64
 PROCESS-NAME,xunlei-pan-cli
 PROCESS-NAME,xunlei-pan
-PROCESS-NAME,python3.8
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,alpinedc.ch
 DOMAIN-SUFFIX,shared.oaifree.com
