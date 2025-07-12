@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,jaxwg.serv00.net
 DOMAIN-SUFFIX,serv00.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,twlw.org
-DOMAIN,github.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,steamcontent.com
 DST-PORT,22
 IP-CIDR,198.18.0.1/16
