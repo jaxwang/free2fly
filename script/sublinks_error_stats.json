@@ -7,17 +7,17 @@
         }
     },
     "https://dy.byxiao.top/v2ray": {
-        "total_runs": 559,
-        "errors": 60,
+        "total_runs": 560,
+        "errors": 61,
         "error_types": {
-            "unclean_yaml_file does not exist": 60
+            "unclean_yaml_file does not exist": 61
         }
     },
     "https://gh-proxy.com/https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vless.txt": {
-        "total_runs": 59,
-        "errors": 38,
+        "total_runs": 60,
+        "errors": 39,
         "error_types": {
-            "unclean_yaml_file does not exist": 33,
+            "unclean_yaml_file does not exist": 34,
             "nodes_csv_file does not exist": 5
         }
     },
@@ -37,39 +37,39 @@
         }
     },
     "https://fs.v2rayse.com/share/20240813/i56s0gfzfz.yaml": {
-        "total_runs": 554,
+        "total_runs": 555,
         "errors": 20,
         "error_types": {
             "unclean_yaml_file does not exist": 20
         }
     },
     "https://fs.v2rayse.com/share/20240915/yqxo3wazdt.txt": {
-        "total_runs": 556,
+        "total_runs": 557,
         "errors": 18,
         "error_types": {
             "unclean_yaml_file does not exist": 18
         }
     },
     "https://fs.v2rayse.com/share/20240823/sudd9bjmte.yaml": {
-        "total_runs": 558,
+        "total_runs": 559,
         "errors": 18,
         "error_types": {
             "unclean_yaml_file does not exist": 18
         }
     },
     "https://gh-proxy.com/https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2": {
-        "total_runs": 532,
+        "total_runs": 533,
         "errors": 16,
         "error_types": {
             "unclean_yaml_file does not exist": 16
         }
     },
     "https://gh-proxy.com/https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ss.txt": {
-        "total_runs": 60,
-        "errors": 11,
+        "total_runs": 61,
+        "errors": 12,
         "error_types": {
             "unclean_yaml_file does not exist": 3,
-            "nodes_csv_file does not exist": 8
+            "nodes_csv_file does not exist": 9
         }
     },
     "https://phs.1024111.xyz/f2f.php?a=base64&airport=https://cdn.gh-proxy.com/https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vmess.txt": {
@@ -122,7 +122,7 @@
         }
     },
     "https://gh-proxy.com/https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt": {
-        "total_runs": 533,
+        "total_runs": 534,
         "errors": 5,
         "error_types": {
             "unclean_yaml_file does not exist": 4,
@@ -130,7 +130,7 @@
         }
     },
     "https://phs.1024111.xyz/f2f.php?a=base64&airport=https://gh-proxy.com/https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/v2ray": {
-        "total_runs": 68,
+        "total_runs": 69,
         "errors": 3,
         "error_types": {
             "unclean_yaml_file does not exist": 3
@@ -158,7 +158,7 @@
         }
     },
     "https://gh-proxy.com/https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ssr.txt": {
-        "total_runs": 60,
+        "total_runs": 61,
         "errors": 3,
         "error_types": {
             "unclean_yaml_file does not exist": 2,
@@ -166,28 +166,28 @@
         }
     },
     "https://gh-proxy.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": {
-        "total_runs": 533,
+        "total_runs": 534,
         "errors": 2,
         "error_types": {
             "unclean_yaml_file does not exist": 2
         }
     },
     "https://phs.1024111.xyz/f2f.php?a=base64&airport=https://gh-proxy.com/https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vmess.txt": {
-        "total_runs": 64,
+        "total_runs": 65,
         "errors": 2,
         "error_types": {
             "unclean_yaml_file does not exist": 2
         }
     },
     "https://gh-proxy.com/https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/trojan.txt": {
-        "total_runs": 63,
+        "total_runs": 64,
         "errors": 2,
         "error_types": {
             "unclean_yaml_file does not exist": 2
         }
     },
     "https://gh-proxy.com/https://raw.githubusercontent.com/vxiaov/free_proxies/main/clash/clash.provider.yaml": {
-        "total_runs": 525,
+        "total_runs": 526,
         "errors": 1,
         "error_types": {
             "unclean_yaml_file does not exist": 1
@@ -222,7 +222,7 @@
         }
     },
     "https://gh-proxy.com/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml": {
-        "total_runs": 531,
+        "total_runs": 532,
         "errors": 0,
         "error_types": {}
     },
@@ -3767,27 +3767,27 @@
         "error_types": {}
     },
     "http://10.10.10.10:5684/f2f.php?a=base64&airport=https://node.clashnode.cc/uploads/2025/07/0-20250716.txt": {
-        "total_runs": 3,
+        "total_runs": 4,
         "errors": 0,
         "error_types": {}
     },
     "https://node.clashnode.cc/uploads/2025/07/2-20250716.txt": {
-        "total_runs": 3,
+        "total_runs": 4,
         "errors": 0,
         "error_types": {}
     },
     "https://node.clashnode.cc/uploads/2025/07/3-20250716.txt": {
-        "total_runs": 3,
+        "total_runs": 4,
         "errors": 0,
         "error_types": {}
     },
     "https://node.clashnode.cc/uploads/2025/07/1-20250716.txt": {
-        "total_runs": 2,
+        "total_runs": 3,
         "errors": 0,
         "error_types": {}
     },
     "https://node.clashnode.cc/uploads/2025/07/4-20250716.txt": {
-        "total_runs": 2,
+        "total_runs": 3,
         "errors": 0,
         "error_types": {}
     }
