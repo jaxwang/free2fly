@@ -9,5 +9,6 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,twlw.org
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,academictorrents.com
 DST-PORT,22
 IP-CIDR,198.18.0.1/16
