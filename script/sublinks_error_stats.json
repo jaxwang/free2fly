@@ -1,86 +1,86 @@
 {
     "https://base64.1024111.xyz/?action=encode&url=https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ssr.txt": {
-        "total_runs": 125,
-        "errors": 125,
+        "total_runs": 126,
+        "errors": 126,
         "error_types": {
-            "Nodes count < 1": 125
+            "Nodes count < 1": 126
         }
     },
     "https://base64.1024111.xyz/?action=encode&url=https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vless.txt": {
-        "total_runs": 125,
-        "errors": 125,
+        "total_runs": 126,
+        "errors": 126,
         "error_types": {
             "nodes_yaml_file does not exist": 39,
-            "unclean_yaml_file does not exist": 86
+            "unclean_yaml_file does not exist": 87
         }
     },
     "https://clashgithub.com/wp-content/uploads/rss/20260202.txt": {
-        "total_runs": 125,
-        "errors": 125,
+        "total_runs": 126,
+        "errors": 126,
         "error_types": {
-            "unclean_yaml_file does not exist": 125
+            "unclean_yaml_file does not exist": 126
         }
     },
     "https://raw.githubusercontent.com/changfengoss/pub/refs/heads/main/3234/2342342": {
-        "total_runs": 125,
-        "errors": 125,
+        "total_runs": 126,
+        "errors": 126,
         "error_types": {
-            "Nodes count < 1": 125
-        }
-    },
-    "https://raw.githubusercontent.com/free-nodes/v2rayfree/refs/heads/main/v220260105": {
-        "total_runs": 125,
-        "errors": 125,
-        "error_types": {
-            "unclean_yaml_file does not exist": 125
+            "Nodes count < 1": 126
         }
     },
     "https://clashgithub.com/wp-content/uploads/rss/20260205.txt": {
-        "total_runs": 125,
-        "errors": 125,
+        "total_runs": 126,
+        "errors": 126,
         "error_types": {
-            "unclean_yaml_file does not exist": 125
+            "unclean_yaml_file does not exist": 126
         }
     },
-    "https://raw.githubusercontent.com/free-nodes/clashfree/refs/heads/main/clash20260206.yml": {
-        "total_runs": 125,
-        "errors": 125,
+    "https://raw.githubusercontent.com/free-nodes/v2rayfree/refs/heads/main/v220260105": {
+        "total_runs": 126,
+        "errors": 126,
         "error_types": {
-            "unclean_yaml_file does not exist": 125
+            "unclean_yaml_file does not exist": 126
         }
     },
     "https://raw.githubusercontent.com/vxiaov/free_proxies/main/clash/clash.provider.yaml": {
-        "total_runs": 125,
-        "errors": 125,
+        "total_runs": 126,
+        "errors": 126,
         "error_types": {
-            "Nodes count < 1": 125
+            "Nodes count < 1": 126
+        }
+    },
+    "https://raw.githubusercontent.com/free-nodes/clashfree/refs/heads/main/clash20260206.yml": {
+        "total_runs": 126,
+        "errors": 126,
+        "error_types": {
+            "unclean_yaml_file does not exist": 126
         }
     },
     "https://base64.1024111.xyz/?action=encode&url=https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vmess.txt": {
-        "total_runs": 125,
-        "errors": 115,
+        "total_runs": 126,
+        "errors": 116,
         "error_types": {
-            "Nodes count < 1": 115
+            "Nodes count < 1": 116
         }
     },
     "https://base64.1024111.xyz/?action=encode&url=https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/trojan.txt": {
-        "total_runs": 125,
-        "errors": 102,
+        "total_runs": 126,
+        "errors": 103,
         "error_types": {
             "Nodes count < 1": 46,
-            "nodes_yaml_file does not exist": 50,
+            "nodes_yaml_file does not exist": 51,
             "unclean_yaml_file does not exist": 6
         }
     },
     "https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/v2ray": {
-        "total_runs": 125,
-        "errors": 97,
+        "total_runs": 126,
+        "errors": 98,
         "error_types": {
-            "Nodes count < 1": 97
+            "Nodes count < 1": 98
         }
     },
     "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml": {
-        "total_runs": 125,
+        "total_runs": 126,
         "errors": 92,
         "error_types": {
             "Nodes count < 1": 87,
@@ -88,23 +88,23 @@
         }
     },
     "https://base64.1024111.xyz/?action=encode&url=https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ss.txt": {
-        "total_runs": 125,
-        "errors": 66,
+        "total_runs": 126,
+        "errors": 67,
         "error_types": {
             "unclean_yaml_file does not exist": 4,
             "nodes_yaml_file does not exist": 54,
-            "Nodes count < 1": 8
+            "Nodes count < 1": 9
         }
     },
     "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt": {
-        "total_runs": 125,
-        "errors": 65,
+        "total_runs": 126,
+        "errors": 66,
         "error_types": {
-            "Nodes count < 1": 65
+            "Nodes count < 1": 66
         }
     },
     "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub": {
-        "total_runs": 125,
+        "total_runs": 126,
         "errors": 58,
         "error_types": {
             "Nodes count < 1": 46,
@@ -161,10 +161,10 @@
         }
     },
     "https://node.clashnode.cc/uploads/2026/06/1-20260630.txt": {
-        "total_runs": 12,
-        "errors": 12,
+        "total_runs": 13,
+        "errors": 13,
         "error_types": {
-            "nodes_yaml_file does not exist": 12
+            "nodes_yaml_file does not exist": 13
         }
     },
     "https://node.clashnode.cc/uploads/2026/06/2-20260626.txt": {
@@ -412,25 +412,25 @@
             "Nodes count < 1": 6
         }
     },
+    "https://node.clashnode.cc/uploads/2026/07/4-20260701.txt": {
+        "total_runs": 6,
+        "errors": 6,
+        "error_types": {
+            "nodes_yaml_file does not exist": 6
+        }
+    },
+    "https://node.clashnode.cc/uploads/2026/07/3-20260701.txt": {
+        "total_runs": 6,
+        "errors": 6,
+        "error_types": {
+            "Nodes count < 1": 6
+        }
+    },
     "https://node.clashnode.cc/uploads/2026/06/1-20260623.txt": {
         "total_runs": 15,
         "errors": 5,
         "error_types": {
             "Nodes count < 1": 5
-        }
-    },
-    "https://node.clashnode.cc/uploads/2026/07/3-20260701.txt": {
-        "total_runs": 5,
-        "errors": 5,
-        "error_types": {
-            "Nodes count < 1": 5
-        }
-    },
-    "https://node.clashnode.cc/uploads/2026/07/4-20260701.txt": {
-        "total_runs": 5,
-        "errors": 5,
-        "error_types": {
-            "nodes_yaml_file does not exist": 5
         }
     },
     "https://node.clashnode.cc/uploads/2026/06/2-20260625.txt": {
@@ -518,7 +518,7 @@
         }
     },
     "https://node.clashnode.cc/uploads/2026/07/2-20260701.txt": {
-        "total_runs": 4,
+        "total_runs": 5,
         "errors": 1,
         "error_types": {
             "Nodes count < 1": 1
@@ -550,7 +550,7 @@
         "error_types": {}
     },
     "https://node.clashnode.cc/uploads/2026/07/1-20260701.txt": {
-        "total_runs": 4,
+        "total_runs": 5,
         "errors": 0,
         "error_types": {}
     }
